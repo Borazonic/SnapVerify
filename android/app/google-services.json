@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037323659564",
+    "project_id": "snapverify-e7124",
+    "storage_bucket": "snapverify-e7124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037323659564:android:01e495bf06a3c170e1a489",
+        "android_client_info": {
+          "package_name": "com.mycompany.snapverify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAymn3O3vr13JIWjX2pf5v1MzRyRVvqxA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
